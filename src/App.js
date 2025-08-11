@@ -4,7 +4,6 @@ import { useRef } from 'react';
 
 function App() {
   const inicioRef = useRef(null);
-  const experienciaRef = useRef(null);
   const historiaRef = useRef(null);
   const tecnologiasRef = useRef(null);
   const contactoRef = useRef(null);
